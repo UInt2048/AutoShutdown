@@ -1,0 +1,9 @@
+Package: com.uint2048.autoshutdown
+Name: AutoShutdown
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: UInt2048
+Author: UInt2048
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
